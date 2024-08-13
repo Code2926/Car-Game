@@ -74,7 +74,7 @@ On mobile screens, arrow buttons will be displayed for easy control. Players can
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="code-crafter" height="30" width="40" />
     </a>
     <a href="mailto:peekaboo29266@gmail.com" target="_blank">
-        <img align="center" src="gemail-logo.png" alt="email" height="30" width="40" />
+        <img align="center" src="gmail-logo.png" alt="email" height="30" width="40" />
     </a>
     <a href="https://github.com/Code2926" target="_blank">
         <img align="center" src="github-logo.png" alt="github" height="30" width="40" />
