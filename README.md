@@ -68,10 +68,10 @@ On mobile screens, arrow buttons will be displayed for easy control. Players can
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/code-crafter-bb69ba312" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="code-crafter" height="30" width="40" />
+        <img align="center" src="linkdin-logo.png" alt="code-crafter" height="30" width="40" />
     </a>
     <a href="https://www.facebook.com/profile.php?id=61559286300797" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="code-crafter" height="30" width="40" />
+        <img align="center" src="facebook-logo.png" alt="code-crafter" height="30" width="40" />
     </a>
     <a href="mailto:peekaboo29266@gmail.com" target="_blank">
         <img align="center" src="gmail-logo.png" alt="email" height="30" width="40" />
