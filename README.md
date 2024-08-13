@@ -73,4 +73,10 @@ On mobile screens, arrow buttons will be displayed for easy control. Players can
     <a href="https://www.facebook.com/profile.php?id=61559286300797" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="code-crafter" height="30" width="40" />
     </a>
+    <a href="mailto:peekaboo29266@gmail.com" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="email" height="30" width="40" />
+    </a>
+    <a href="https://github.com/Code2926" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+    </a>
 </p>
