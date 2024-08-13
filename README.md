@@ -67,6 +67,6 @@ On mobile screens, arrow buttons will be displayed for easy control. Players can
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fasih-nasir" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fasihnasir" height="30" width="40" /></a>
+<a href="linkedin.com/in/code-crafter-bb69ba312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="code-crafter" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61559286300797" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="code-crafter" height="30" width="40" /></a>
 </p>
